@@ -1,0 +1,8 @@
+What is Resource group
+Azure Resource Groups are logical collections of virtual machines, storage accounts, virtual networks, web apps, databases, and/or database servers. You can use them to group related resources for an application and divide them into groups for production and non-production, or any other organizational structure you prefer.
+Microsoft provides built-in roles, or you can create your own custom roles depending on your organization's needs. Some of the most common roles include: 
+Contributor: Grants full access to manage all resources, but does not allow you to assign roles in Azure RBAC
+Owner: Grants full access to manage all resources, including the ability to assign roles in Azure RBAC
+Reader: View all resources, but doesn't allow you to make any changes
+User Access Administrator: Lets you manage user access to Azure resources
+What is virtual network 
